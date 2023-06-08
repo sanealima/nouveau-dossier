@@ -9,12 +9,12 @@
 .text-div {
   flex: 5;
   margin-left: 60px;
-  margin-top: 150px;
-  text-align: justify;
-  padding-top: 0%;
-  
-  
-  
+  margin-top: 100px;
+  text-align: justify;  
+}
+.soda {
+  font-size: 50px;
+  margin-bottom: 30px;
 }
 .Gras{
   font-weight: bold;
