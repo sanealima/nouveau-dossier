@@ -1,0 +1,96 @@
+.section {
+  display: flex;
+}
+
+.image-div {
+  flex: 5;
+}
+
+.text-div {
+  flex: 5;
+  margin-left: 60px;
+  margin-top: 150px;
+  text-align: justify;
+  padding-top: 0%;
+  
+  
+  
+}
+.Gras{
+  font-weight: bold;
+}
+.lima{
+  font-size: 35px;
+}
+
+.img {
+  width: 100%;
+  height: auto;
+}
+
+footer {
+  background-color: black;
+  padding: 90px;
+  text-align: center;
+  font-size: 13px;
+  color: white; 
+  margin-top: -5px; 
+  padding-bottom: 100px;
+  height: 50px;
+}
+#text{
+  margin-top:-40px ;
+
+}
+.nab{
+  text-align: center;
+  margin-top: 50px;
+  
+}
+#zey{
+  color: rgb(137, 137, 219);
+}
+#alima{
+  color: rgb(137, 137, 219);
+
+}
+
+.line{
+  width: 50%;
+  height: 10px;
+  background-color: rgb(35, 137, 180);
+  
+}
+li{
+  padding-left: 0;
+}
+header {
+  background-color: blue;
+  color: white;
+}
+
+.container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 60px;
+}
+
+h1 {
+  margin: 0;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+#logo{
+  font-size: 30px;
+  margin-left: 200px;
+  color: rgb(128, 126, 126);
+}
+.barre{
+  margin-right: 200px;
+  width: 40px;
+  height:30px;
+}
