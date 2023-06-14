@@ -26,6 +26,7 @@
 .img {
   width: 100%;
   height: auto;
+  border: 60px;
 }
 
 footer {
@@ -48,7 +49,7 @@ footer {
   
 }
 #zey{
-  color: rgb(137, 137, 219);
+  color: rgb(107, 107, 167);
 }
 #alima{
   color: rgb(137, 137, 219);
@@ -58,14 +59,14 @@ footer {
 .line{
   width: 50%;
   height: 10px;
-  background-color: rgb(35, 137, 180);
+  background-color: rgb(87, 166, 214);
   
 }
 li{
   padding-left: 0;
 }
 header {
-  background-color: blue;
+  background-color: rgb(87, 87, 228);
   color: white;
 }
 
